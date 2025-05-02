@@ -12,6 +12,6 @@ Number of Orders by Country (Histogram)
 
 Sankey Diagram (Country to City to Freight)
 
-
-![vis2](https://github.com/user-attachments/assets/402826ab-6dd8-4e3b-9649-21ed98e69689)
 ![vis1](https://github.com/user-attachments/assets/561d710c-195e-4f1f-be6b-1c5522f3b822)
+![vis2](https://github.com/user-attachments/assets/402826ab-6dd8-4e3b-9649-21ed98e69689)
+
